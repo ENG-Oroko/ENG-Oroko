@@ -1,14 +1,6 @@
 ENG-Oroko
 ---------------------------------------------------------------------------------------------------------------------
-
 🚀 ENG-Oroko is a modern software development project focused on building responsive, scalable, and user-friendly digital solutions. The project combines strong frontend design, efficient backend systems, and modern deployment tools to deliver high-quality applications.
-
-📖 About ENG-Oroko
---------------------------------------------------------------------------------------------------------------------
-
-ENG-Oroko specializes in creating web and mobile applications using modern technologies. The goal is to develop fast, secure, and visually appealing solutions that solve real-world problems.
-
-Whether it's a business website, management system, mobile app, or full-stack platform, ENG-Oroko brings ideas to life through clean code and reliable architecture.
 
 💻 Frontend Technologies
 =====================================================================================================================
@@ -18,7 +10,6 @@ Whether it's a business website, management system, mobile app, or full-stack pl
 ⚛️ React.js – Component-based web applications
 💨 Tailwind CSS – Fast and responsive UI styling
 📱 Flutter – Cross-platform mobile app development
-
 
 ⚙️ Backend Technologies
 =====================================================================================================================
