@@ -1,36 +1,69 @@
-ENG-Oroko
----------------------------------------------------------------------------------------------------------------------
-🚀 ENG-Oroko is a modern software development project focused on building responsive, scalable, and user-friendly digital solutions. The project combines strong frontend design, efficient backend systems, and modern deployment tools to deliver high-quality applications.
+# I'm  Douglas Oroko 👋
 
-💻 Frontend Technologies
-=====================================================================================================================
-🌐 HTML5 – Structure of web pages
-🎨 CSS3 – Styling and layouts
-⚡ JavaScript – Dynamic functionality
-⚛️ React.js – Component-based web applications
-💨 Tailwind CSS – Fast and responsive UI styling
-📱 Flutter – Cross-platform mobile app development
+I am a passionate software developer with experience in UI/UX design, frontend development, and backend development. I specialize in building modern, scalable, and user-friendly applications using cross-platform and web technologies.
 
-⚙️ Backend Technologies
-=====================================================================================================================
-🟢 Node.js – JavaScript runtime for backend development
-🚂 Express.js – Lightweight web framework for APIs
-🐬 MySQL – Relational database management
-🐘 PostgreSQL – Advanced SQL database
-🍃 MongoDB – NoSQL database for scalable apps
+I have worked with technologies such as Flutter for cross-platform mobile development, ReactJS for modern web interfaces, and Node.js with Express for backend services and APIs. I also have experience working with both SQL and NoSQL databases, ensuring efficient data management and seamless application integration.
 
-🛠️ Other Tools & Technologies
-======================================================================================================================
-🐳 Docker – Containerization and deployment
-🐙 GitHub – Version control and collaboration
+---
 
-🌟 Features
----------------------------------------------------------------------------------------------------------------------
-📱 Responsive web design
-🌐 Full-stack web applications
-📲 Mobile app development
-🔗 RESTful APIs
-🗄️ Database integration
-🔐 Secure authentication systems
-📈 Scalable architecture
-🧹 Clean and maintainable code
+## My Stacks
+
+<table >
+  <tr>
+    <td >
+      <img src="images/flutter.png" alt="Flutter" width="50"/>
+    </td>
+    <td >
+      <img src="images/dart.png" alt="Dart" width="50"/>
+    </td>
+    <td >
+      <img src="images/swiftui.png" alt="SwiftUI" width="50"/>
+    </td>
+        <td >
+      <img src="images/react.png" alt="React" width="50"/>
+    </td>
+    <td >
+      <img src="images/sql.webp" alt="SQL" width="50"/>
+    </td>
+    <td >
+      <img src="images/nodejs.png" alt="Node.js" width="50"/>
+    </td>
+    <td >
+      <img src="images/github.png" alt="GitHub" width="50"/>
+    </td>
+  </tr>
+    <tr>
+    <td >
+      Flutter
+    </td>
+    <td >
+      Dart
+    </td>
+    <td >
+      SwiftUI
+    </td>
+    <td >
+      SQL
+    </td>
+    <td >
+      Node.js
+    </td>
+    <td >
+      GitHub
+    </td>
+  </tr>
+</table>
+
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brightmuk&show_icons=true&theme=radical) -->
+
+
+## Languages
+
+
+
+## Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ENG-Oroko&theme=tokyonight&hide_border=true)
+
+
+
