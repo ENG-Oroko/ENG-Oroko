@@ -42,6 +42,9 @@ I have worked with technologies such as Flutter for cross-platform mobile develo
     <td >
       SwiftUI
     </td>
+    <td>
+      React
+    </td>
     <td >
       SQL
     </td>
